@@ -1,2 +1,6 @@
  this is a new branch
+<<<<<<< HEAD
  addind locally
+=======
+adding a file online
+>>>>>>> 2649b55bfdba2f771dc7972eb5fca301beec4635
